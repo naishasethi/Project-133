@@ -1,0 +1,36 @@
+body{
+background-size: cover;
+background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas {
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+    margin-top: 60px;
+}
+a {
+    font-size: 20px  !important;
+    width: 400px;
+    border-radius: 30px !important;
+    background-color: darkseagreen;
+    color: mediumblue;
+}
+#backbutton {
+    float: right;
+    width: 100px;
+    margin: 5px;
+    font-size: 20px !important;
+    background: tomato;
+    cursor:  pointer ;
+    color: mediumvioletred;
+}
